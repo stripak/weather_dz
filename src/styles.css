@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: #283149;
+  }
+
+h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+
+.sun {
+    background-image: url('assets/summer-bg.jpg');
+}
+
+.snow {
+    background-image: url('assets/winter-bg.jpg');
+}
+
+.rain {
+    background-image: url('assets/rainy-bg.jpg'); 
+}
+
+.but {
+    background-size: cover;
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+  }
+
+
+.volumeControlWrapper {
+    text-align: center; 
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+    font-family: 'Arvo', cursive;
+    margin-top: 120px;
+}
